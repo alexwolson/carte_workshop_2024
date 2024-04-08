@@ -13,9 +13,9 @@ Content will be uploaded to this repository at the beginning of each session. Yo
 ### Morning
 
 - Lecture: [Introduction to Machine Learning](slides/lecture-1-1.pdf)
-- Lab: [Introduction to Python](https://colab.research.google.com/github/alexwolson/carte_workshop_20204/blob/main/labs/lab-1-1.ipynb)
+- Lab: [Introduction to Python](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-1-1.ipynb)
 
 ### Afternoon
 
 - Lecture: [Ensemble Models](slides/lecture-1-2.pdf)
-- Lab: [Decision Trees and Random Forests](https://colab.research.google.com/github/alexwolson/carte_workshop_20204/blob/main/labs/lab-1-2.ipynb)
+- Lab: [Decision Trees and Random Forests](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-1-2.ipynb)
