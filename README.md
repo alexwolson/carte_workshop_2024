@@ -19,3 +19,14 @@ Content will be uploaded to this repository at the beginning of each session. Yo
 
 - Lecture: [Ensemble Models](slides/lecture-1-2.pdf)
 - Lab: [Decision Trees and Random Forests](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-1-2.ipynb)
+
+## Day 2
+### Morning
+
+- Lecture: [Unsupervised Learning and Visualization](slides/lecture-2-1.pdf)
+- Lab: [Dimensionality Reduction](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-2-1.ipynb)
+
+### Afternoon
+
+- Lecture: [Regularization and Hyperparameter Tuning](slides/lecture-2-2.pdf)
+- Lab: [Hyperparameter Tuning](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-2-2.ipynb)
