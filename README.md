@@ -9,6 +9,10 @@ In this repository, you will find all of the resources you need for the workshop
 
 Content will be uploaded to this repository at the beginning of each session. You can access the content by clicking on the links below:
 
+## Intro to Python Lab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/python-intro.ipynb)
+
 ## Day 1
 ### Morning
 
