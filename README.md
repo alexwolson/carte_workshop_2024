@@ -9,6 +9,12 @@ In this repository, you will find all of the resources you need for the workshop
 
 Content will be uploaded to this repository at the beginning of each session. You can access the content by clicking on the links below:
 
+## Shortcuts
+
+- [Day 1](#day-1)
+- [Day 2](#day-2)
+- [Day 3](#day-3)
+
 ## Intro to Python Lab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/python-intro.ipynb)
@@ -34,3 +40,14 @@ Content will be uploaded to this repository at the beginning of each session. Yo
 
 - Lecture: [Regularization and Hyperparameter Tuning](slides/lecture-2-2.pdf)
 - Lab: [Hyperparameter Tuning](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-2-2.ipynb)
+
+## Day 3
+### Morning
+
+- Lecture: [Neural Networks](slides/lecture-3-1.pdf)
+- Lab: [Introduction to Neural Networks](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-3-1.ipynb)
+
+### Afternoon
+
+- Lecture: [Embeddings](slides/lecture-3-2.pdf)
+- Lab: [Introduction to PyTorch](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-3-2.ipynb)
