@@ -62,4 +62,4 @@ Content will be uploaded to this repository at the beginning of each session. Yo
 ### Afternoon
 
 - Lecture: [Recurrent Neural Networks](slides/lecture-4-2.pdf)
-- Lab: [Generating Embeddings] (link to come)
+- Lab: [Embeddings](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-4-2.ipynb)
