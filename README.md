@@ -14,6 +14,7 @@ Content will be uploaded to this repository at the beginning of each session. Yo
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
+- [Day 4](#day-4)
 
 ## Intro to Python Lab
 
@@ -51,3 +52,14 @@ Content will be uploaded to this repository at the beginning of each session. Yo
 
 - Lecture: [Embeddings](slides/lecture-3-2.pdf)
 - Lab: [Introduction to PyTorch](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-3-2.ipynb)
+
+## Day 4
+### Morning
+
+- Lecture: [Convolutional Neural Networks](slides/lecture-4-1.pdf)
+- Lab: [Image Classification with CNNs](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-4-1.ipynb)
+
+### Afternoon
+
+- Lecture: [Recurrent Neural Networks](slides/lecture-4-2.pdf)
+- Lab: [Generating Embeddings] (link to come)
