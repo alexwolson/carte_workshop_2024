@@ -15,6 +15,7 @@ Content will be uploaded to this repository at the beginning of each session. Yo
 - [Day 2](#day-2)
 - [Day 3](#day-3)
 - [Day 4](#day-4)
+- [Day 5](#day-5)
 
 ## Intro to Python Lab
 
@@ -63,3 +64,13 @@ Content will be uploaded to this repository at the beginning of each session. Yo
 
 - Lecture: [Recurrent Neural Networks](slides/lecture-4-2.pdf)
 - Lab: [Embeddings](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-4-2.ipynb)
+
+## Day 5
+### Morning
+
+- Lecture: [Class Imbalance and Metric Learning](slides/lecture-5-1.pdf)
+- Lab: [Training a Siamese Network for Face Verification](https://colab.research.google.com/github/alexwolson/carte_workshop_2024/blob/main/labs/lab-5-1.ipynb)
+
+### Afternoon
+
+- Lecture: [Transformers and GPT](slides/lecture-5-2.pdf)
